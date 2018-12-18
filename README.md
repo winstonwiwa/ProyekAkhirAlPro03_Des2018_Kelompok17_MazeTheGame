@@ -1,10 +1,10 @@
 # ProyekAkhirAlPro03_Des2018_Kelompok17_MazeTheGame
 Program ini dibuat oleh Rex Rakhito Dio (1606880472) dan Winston Wiwa S. (1606878045)
 pada bulan November - Desember 2018
-sebagai proyek akhir mata kuliah Algoritma & Pemrograman
+sebagai proyek akhir mata kuliah Algoritma & Pemrograman,
 Departemen Teknik Elektro, Universitas Indonesia
 
-# About this game
+# About This Game
 Maze The Game adalah game yang dibuat dengan bahasa pemrograman C.
 Tujuan utama dari game adalah keluar dari labirin menuju O.
 Pemain menggerakkan avatar dengan menggunakan tombol W/A/S/D.
